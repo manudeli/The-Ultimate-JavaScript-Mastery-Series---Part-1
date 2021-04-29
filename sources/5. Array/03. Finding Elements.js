@@ -3,6 +3,7 @@ const numbers = [1, 2, 3, 1, 4];
 // Search Index
 console.log(numbers.indexOf("a"));
 console.log(numbers.indexOf(1));
+
 // Search Index from where
 console.log(numbers.indexOf(1, 2));
 console.log(numbers.indexOf("1"));
